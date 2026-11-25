@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suleman-ghazi-portfolio.vercel.app/sitemap.xml
